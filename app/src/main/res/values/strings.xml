@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="_2h_01m">2h 01m</string>
+    <string name="movie_box">Movie Box</string>
+    <string name="playing_now">Playing Now</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="over_view">Over view</string>
+</resources>
